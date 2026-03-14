@@ -69,9 +69,6 @@ export function Navbar() {
                         <Link href="/about" className="text-brand.dark hover:opacity-70 transition">
                             About
                         </Link>
-                        <Link href="/careers" className="text-brand.dark hover:opacity-70 transition">
-                            Careers
-                        </Link>
                     </nav>
 
                     {/* CTA BUTTON */}
